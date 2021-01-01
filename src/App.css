@@ -1,0 +1,45 @@
+body{
+  background-color: #141414;
+}
+
+.App {
+  text-align: center;
+}
+
+.jumbotron{
+  background-image: url('./images/6.webp');
+  background-size: 100% 100%;
+  height: 870px;
+ position: relative;
+}
+
+.logotext{
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.logotext1{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: sans-serif;
+  margin: 0;;
+}
+.sides{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.extender{
+  padding-right: 30px;
+  font-weight: bold;
+  height: 70px;
+}
+
+nav{
+  background-color: #000000;
+}
+
+.netclick:hover{
+  cursor: pointer;
+}
